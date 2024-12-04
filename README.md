@@ -58,14 +58,12 @@
 
 ## Github Stats  
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-MS&title_color=e292e8&text_color=86d190&icon_color=417bd1&bg_color=242424&custom_title=My_stats&rank_icon=github" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mateus-MS&title_color=e292e8&text_color=86d190&icon_color=417bd1&bg_color=242424&layout=compact&langs_count=5&custom_title=My_skills" />
-  </a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mateus-MS&title_color=e292e8&text_color=86d190&icon_color=417bd1&bg_color=242424&custom_title=My_stats&rank_icon=github" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mateus-MS&title_color=e292e8&text_color=86d190&icon_color=417bd1&bg_color=242424&layout=compact&langs_count=5&custom_title=My_skills" />
+</a>
 
 <br/> 
 
