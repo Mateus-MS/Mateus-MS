@@ -1,9 +1,12 @@
 ## 👋 Hi! my name is Mateus
 
-<p>
-  I am a brazilian full-stack web developer giving my first steps in my carrer. Focused in my graduation and in some personal projects.
+<p style="clear: both;">
+  I am a brazilian back-end developer giving my first steps in my carrer. Focused in my graduation and in some personal projects.
+  <div align="center">
+    <img src="https://cubonauta.com?id=261087491&a=2" width="120" />
+  </div>
 </p>
- 
+
 ## Languages and Tools  
 <div>  
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
@@ -54,9 +57,7 @@
   <a href="https://www.linkedin.com/in/mateusalves000/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div> 
-
-## Github Stats  
+</div>
 
 <div>
   <a href="https://cubonauta.com/">
