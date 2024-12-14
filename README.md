@@ -3,7 +3,7 @@
 <p style="clear: both;">
   I am a brazilian back-end developer giving my first steps in my carrer. Focused in my graduation and in some personal projects.
   <div align="center">
-    <img src="https://cubonauta.com?id=261087491&a=2" width="120" />
+    <img src="https://cubonauta.com?id=261087491&mood=greeting" width="120" />
   </div>
 </p>
 
