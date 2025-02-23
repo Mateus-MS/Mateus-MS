@@ -34,7 +34,7 @@
 🌱 Currently studying server infrastructure with JAVA and GO.  
 
 
-🤪 Playing with Rust
+🤪 Playing with Rust.
   
 
 📖 Currently on Software Engineers college and studying to enter a mathematics college.
