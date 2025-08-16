@@ -31,13 +31,7 @@
 🔭 Currently working on [cubonauta](https://cubonauta.com).  
   
 
-🌱 Currently studying server infrastructure with JAVA and GO.  
-
-
-🤪 Playing with Rust.
-  
-
-📖 Currently on Software Engineers college and studying to enter a mathematics college.
+🌱 Currently studying server infrastructure with JAVA and GO.
 
 
 🤓 Fun fact: The world Record of 3x3 Rubik's cube solve speed is 3.13.  
