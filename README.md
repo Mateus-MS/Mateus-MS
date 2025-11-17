@@ -3,7 +3,7 @@
 <p style="clear: both;">
   I am a brazilian back-end developer giving my first steps in my carrer. Focused in my graduation and in some personal projects.
   <div align="center">
-    <img src="https://duo-widget.vercel.app/api?mood=struggling&userID=261087491" width="120" />
+    <img src="https://duo-widget.duckdns.org?username=MateusAlve711173" width="120" />
   </div>
 </p>
 
